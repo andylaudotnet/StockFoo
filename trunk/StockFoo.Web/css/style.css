@@ -1,0 +1,91 @@
+﻿a:link{color:#0353ce;text-decoration:none;}
+a:visited {color: #0353ce;text-decoration:none;}
+a:hover,a:active{color:#cc0000;text-decoration:underline;}
+body, div, input
+{
+    font-size: 14px;
+}
+#div_logo
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+#div_logo a
+{
+    background: url('../images/logo.png');
+    width: 255px;
+    height: 68px;
+    display: block;
+    margin: 0 auto;
+}
+#div_search
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.text_search
+{
+    width: 399px;
+    padding: 3px;
+    border: #999 1px solid;
+    font-size: 16px;
+}
+.btn_search
+{
+    width: 100px;
+    margin-left: 10px;
+    height: 30px;
+}
+#div_search a
+{
+    background: url('../images/logo.png');
+    width: 255px;
+    height: 68px;
+    display: block;
+    margin: 0 auto;
+}
+.hotword{font-size:14px;width: 521px;margin: 10px auto 0;text-align: left;overflow: hidden;border: 0px solid #CCCCCC;padding: 5px 5px;}
+.hotword dl{clear: both;line-height: 20px;display: block;float: none;overflow: hidden;}
+.hotword dt{float: left;font-weight: bold;color: #cc0000;padding-right:100px;}
+.hotword dd{float: left;margin: 5px auto 0; margin-left:0px;}
+#tdclass01{font-weight: bold;color: #cc0000;}
+#aclase01{margin-right:12px;}
+#div_footer
+{
+    width: 100%;
+    text-align: center;
+    color:#666699;
+    margin-top: 30px;
+}
+#div_footer a
+{
+	color:#666699;
+	text-decoration:none;	
+}
+#div_searchresult
+{
+    width: 100%;
+    text-align: left;
+    margin-top: 10px;
+}
+#div_resultinfo 
+{
+    width: 100%;
+    text-align: left;
+    background-color:#edf8f8;
+}
+#div_resultpages a
+{
+	color:Blue;
+    margin-left:3px;
+}
+#div_resultpoint
+{
+    width: 100%;
+    text-align: center;
+    color:#666699;
+    margin-top: 33px;
+    margin-bottom:10px;
+}
